@@ -1,0 +1,92 @@
+html {
+    font-family: "SFNS Display";
+}
+#body1 {
+    position:relative
+}
+body {
+    margin: 0;
+
+}
+#first_text{
+    position:absolute;
+    width:170px;
+    height:60px;
+    left:200px;
+}
+#second_text{
+    position:absolute;
+    width:170px;
+    height:60px;
+    right:200px;
+}
+#first_user{
+    position:absolute;
+    font-family: "SFNS Display";
+    top:150px;
+    left: 180px;
+}
+#second_user{
+    position:absolute;
+    font-family: "SFNS Display";
+    top:150px;
+    right: 180px;
+
+}
+#knopka {
+    width:180px;
+    height:20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+#load {
+    font-family: "SFNS Display";
+    width:180px;
+
+}
+h2{
+    font-family: "SFNS Display";
+    text-align: center;
+}
+h3{
+    font-family: "SFNS Display";
+    text-align: center;
+    top:200px;
+}
+h4{
+    text-indent: 30px;
+}
+.str {
+    font-family: "SFNS Display";
+    text-align: center;
+
+}
+ol {
+    margin: 20%;
+}
+
+ul {
+    list-style: none;
+}
+li {
+    margin-bottom: 15px;
+}
+a {
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    align-items: center;
+}
+h4 {
+    margin: 0;
+}
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+p {
+    text-align: center;
+}
